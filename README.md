@@ -20,9 +20,6 @@ AI Agents · 桌面应用 · 开发者工具
 **[Chat Book Cloud](https://github.com/heysuiyi/chat-book-cloud)** · AI 写作与知识管理  
 把阅读、写作、Agent 共创和内容治理放到同一个平台里，探索 AI 如何接入真实的内容创作流程。
 
-**[AI Naming Assistant](https://github.com/heysuiyi/ideaplugle)** · IntelliJ IDEA 命名助手  
-给变量取名卡住时，用一句描述生成合适的名字。支持多种命名格式，让开发过程少一点打断。
-
 ## 🌱 代码之外，也写一点
 
 在 [putl.online](https://putl.online/) 记录构建过程、读书见闻和对日常事物的追问。  
